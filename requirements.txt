@@ -2,3 +2,4 @@ marketing-attribution-models
 streamlit
 pandas
 seaborn
+matplotlib
