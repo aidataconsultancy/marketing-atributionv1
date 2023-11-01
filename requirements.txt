@@ -1,5 +1,6 @@
-marketing-attribution-models
-streamlit
-pandas
-seaborn
-matplotlib
+﻿matplotlib==3.5.2
+pandas==1.4.3
+seaborn==0.12.2
+streamlit==1.27.0
+plotly==5.17.0
+marketing_attribution_models
