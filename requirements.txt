@@ -1,4 +1,4 @@
-marketing_attribution_models
+marketing-attribution-models
 streamlit
 pandas
 seaborn
